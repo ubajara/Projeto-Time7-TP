@@ -1,7 +1,7 @@
 #ifndef VEICULOS_H
 #define VEICULOS_H
 
-#include <string>
+#include <string> // Tira isso
 
 class Veiculos{
 	
